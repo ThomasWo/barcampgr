@@ -27,7 +27,7 @@ anything to say, you can still...
 Help Out
 On the days of the event itself, we typically need greeters, people to babysit the facility overnight (some folks stay overnight), people to respond to technical issues such as "why won't the projector work with my laptop" and "could someone turn down the lights so we could see the screen?"
 
-We also have a Slack Channel again this year, barcampgr.slack.org. Use it to ask for certain subjects to be covered (#topic-requests). Use it to offer subjects that you can talk about. During the event, use it to have live discussions about things with people who aren't immediately present. After the event, use it to post supplemental materials and ask followup questions. We have a lot of other ways you can keep up to date on BarCampGR news and updates via the following social media outlets:
+We also have a Slack organization again this year, slack.barcampgr.org/. Use it to ask for certain subjects to be covered (#topic-requests). Use it to offer subjects that you can talk about. During the event, use it to have live discussions about things with people who aren't immediately present. After the event, use it to post supplemental materials and ask followup questions. We have a lot of other ways you can keep up to date on BarCampGR news and updates via the following social media outlets:
 
     * Website: http://barcampgr.org
     * Twitter: @barcampgr
