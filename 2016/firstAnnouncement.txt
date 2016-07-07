@@ -1,14 +1,14 @@
-Geeks, Makers, and programmers lend me your Inboxes! The eleventh annual BarCamp Grand Rapids will be on Friday, August 26 and Saturday, August 27, 2016 at Calvin College’s DeVos Communications Center.
+Geeks, makers, and programmers lend me your inboxes! The eleventh annual BarCampGR will be on Friday, August 26 and Saturday, August 27, 2016 at Calvin College’s DeVos Communications Center.
 
 To register and attend for free, visit: http://barcampgr.org/register/
 
 New to BarCampGR or want more information? Read on!
 
 What is BarCampGR?
-BarCamp is about meeting interesting people, talking about what you want to talk about, and listening to what you're interested in. Subjects of discussion have ranged from web programming and digital photography to computer vision and turkey basting. (No, there wasn't a talk on having a computer visually monitor your turkey, but if you've tried it, you're welcome to report on your experiences!)  You see, the talks are not set beforehand, it's you, the attendees, who give BarCampGR direction and content. 
+BarCampGR is about meeting interesting people, talking about what you want to talk about, and listening to what you're interested in. Subjects of discussion have ranged from web programming and digital photography to computer vision and turkey basting. (No, there wasn't a talk on having a computer visually monitor your turkey, but if you've tried it, you're welcome to report on your experiences!)  You see, the talks are not set beforehand. It's you, the attendees, who give BarCampGR direction and content. 
 
 What's the format?
-Presentations are 25 minutes long, with five minutes in between. You're welcome to sit in on a presentation or hang around in the lounge and talk; it's all the same with us. If you run a presentation, we don't care how you run it - so long as you don't get us in trouble! Give a monologue, a Q&A or a round table; it's your topic, your presentation, your audience. If people didn't want to spend 25 minutes on your topic, they wouldn't be there.
+Presentations are 25 minutes long, with five minutes in between. You're welcome to sit in on a presentation or hang around in the lounge and talk; it's all the same with us. If you run a presentation, we don't care how you run it - so long as you don't get us in trouble! Give a monologue, a Q&A or a round table; it's your topic, your presentation, your audience. If people didn't want to spend 25 minutes on your topic, they wouldn't be there. Please be considerate when signing up for multiple talks at the start of the conference. If you see slots lingering open later on, feel free to fill them in then. This allows for more room for new talks and late adds, while also keeping you from accidentally scheduling an hour for a 25 minute talk!
 
 Don't know what to talk about?
 Certainly you have some relatively unique experiences. What do you do for a hobby? What's something you managed to fix that you're proud of? It doesn't matter if the height of your accomplishment is changing your car's oil or if you've war-driven half of the Grand Rapids area; if people are interested, they will show up at your talk. If they aren’t interested, they will probably attend one of the other talks during that time.
@@ -27,7 +27,7 @@ anything to say, you can still...
 Help Out
 On the days of the event itself, we typically need greeters, people to babysit the facility overnight (some folks stay overnight), people to respond to technical issues such as "why won't the projector work with my laptop" and "could someone turn down the lights so we could see the screen?"
 
-We also have a Slack organization again this year, slack.barcampgr.org/. Use it to ask for certain subjects to be covered (#topic-requests). Use it to offer subjects that you can talk about. During the event, use it to have live discussions about things with people who aren't immediately present. After the event, use it to post supplemental materials and ask followup questions. We have a lot of other ways you can keep up to date on BarCampGR news and updates via the following social media outlets:
+We also have a Slack organization again this year, slack.barcampgr.org. Use it to ask for certain subjects to be covered (#topic-requests). Use it to offer subjects that you can talk about. During the event, use it to have live discussions about things with people who aren't immediately present. After the event, use it to post supplemental materials and ask followup questions. We have a lot of other ways you can keep up to date on BarCampGR news and updates via the following social media outlets:
 
     * Website: http://barcampgr.org
     * Twitter: @barcampgr
@@ -38,12 +38,15 @@ We also have a Slack organization again this year, slack.barcampgr.org/. Use it 
 
 Also, if you'd like to help us organize BarCampGR, then sign up for the BarCampGR Organizers' Email Group and jump right into the conversation at http://lists.barcampgr.org/listinfo.cgi/organizers-barcampgr.org, or join the Slack team noted above. 
 
-T-Shirts will be available online for purchase, details will be sent out once that’s ready.  Don’t worry, we'll have other free swag at BarCamp this year. 
+T-Shirts will be available online for purchase, details will be sent out once that’s ready.  Don’t worry, we'll have other free swag at BarCampGR this year. 
+
+
 
 CODE OF CONDUCT
-
 You can read our code of conduct here:
     * http://barcampgr.org/code-of-conduct/
+
+
 REGISTRATION
     * http://barcampgr.org/register/
 
