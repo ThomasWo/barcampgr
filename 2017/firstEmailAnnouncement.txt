@@ -17,7 +17,7 @@ But I'm not an expert!
 Sure you are! If you know the first thing about a subject, you know more than people who don't. Sure, people who know more than you might attend your presentation. Interact with them; you found a kindred spirit. Chances are, if you're both interested in the same subject, you'll look for each other in the lounge later to follow up!
 
 How do I register a talk?
-There's a whiteboard near the entrance; that's the schedule grid. On it, there's a list of rooms and times, and the grid starts off empty. Simply walk up to that board, find a spot, write in your topic and your name, and then show up in that room at that time to speak. It's that simple. Please be considerate when signing up for multiple talks at the start of the conference. If you see slots lingering open later on, feel free to fill them in then. This allows for more room for new talks and late adds, while also keeping you from accidentally scheduling an hour for a 25 minute talk!
+There's a blank schedule grid near the entrance with a list of rooms and times, and the grid starts off empty. Simply walk up to that board, find a spot, write in your topic and your name, and then show up in that room at that time to speak. It's that simple. Please be considerate when signing up for multiple talks at the start of the conference. If you see slots lingering open later on, feel free to fill them in then. This allows for more room for new talks and late adds, while also keeping you from accidentally scheduling an hour for a 25 minute talk!
 
 I'm not sure I want to talk...
 No problem. Come on in, take a look around and get a feel for things. It's a two-day event; come by on Friday, sit in on the presentations which interest you or hang around in the lounge and network with other people. Perhaps you'll be inspired to talk about something later or on Saturday. Or perhaps you'll be content to simply listen to the people around you; it's all good.
@@ -38,9 +38,6 @@ We also have a Slack organization again this year, slack.barcampgr.org. Use it t
     * Google+: https://plus.google.com/b/116952079842867940611/
 
 Also, if you'd like to help us organize BarCampGR, then sign up for the BarCampGR Organizers' Email Group and jump right into the conversation at http://lists.barcampgr.org/listinfo.cgi/organizers-barcampgr.org, or join the Slack team noted above. 
-
-T-Shirts will be available online for purchase, details will be sent out once that’s ready.  Don’t worry, we'll have other free swag at BarCampGR this year. 
-
 
 
 CODE OF CONDUCT
