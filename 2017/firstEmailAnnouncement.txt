@@ -1,6 +1,6 @@
 Geeks, makers, and programmers lend me your inboxes! The twelfth annual BarCampGR will be on Friday, August 25 and Saturday, August 26, 2017 at Calvin College’s DeVos Communications Center.
 
-To register and attend for free, visit: http://barcampgr.org/register/
+To register and attend for free, visit: https://barcampgr.org/register/
 
 New to BarCampGR or want more information? Read on!
 
@@ -30,9 +30,9 @@ On the days of the event itself, we typically need greeters, people to babysit t
 
 We also have a Slack organization again this year, slack.barcampgr.org. Use it to ask for certain subjects to be covered (#topic-requests). Use it to offer subjects that you can talk about. During the event, use it to have live discussions about things with people who aren't immediately present. After the event, use it to post supplemental materials and ask followup questions. We have a lot of other ways you can keep up to date on BarCampGR news and updates via the following social media outlets:
 
-    * Website: http://barcampgr.org
+    * Website: https://barcampgr.org
     * Twitter: @barcampgr
-    * Slack: http://slack.barcampgr.org/ ( Replaces IRC )
+    * Slack: https://slack.barcampgr.org/ ( Replaces IRC )
     * Subreddit: http://www.reddit.com/r/BarCampGR/
     * Facebook: https://www.facebook.com/pages/BarCampGR/112347402141619
     * Google+: https://plus.google.com/b/116952079842867940611/
@@ -42,11 +42,11 @@ Also, if you'd like to help us organize BarCampGR, then sign up for the BarCampG
 
 CODE OF CONDUCT
 You can read our code of conduct here:
-    * http://barcampgr.org/code-of-conduct/
+    * https://barcampgr.org/code-of-conduct/
 
 
 REGISTRATION
-    * http://barcampgr.org/register/
+    * https://barcampgr.org/register/
 
 LOCATION
     DeVos Communications Center at Calvin College in Grand Rapids, MI
