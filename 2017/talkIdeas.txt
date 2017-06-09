@@ -1,0 +1,5 @@
+Kotlin (for Android?)
+Why data sovereignty sucks
+Kubernetes
+Docker
+
