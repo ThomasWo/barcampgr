@@ -1,0 +1,93 @@
+Geeks, makers, and programmers lend me your feeds! The twelfth annual BarCampGR will be on Friday, August 25 and Saturday, August 26, 2017 at Calvin College’s DeVos Communications Center.
+
+To register and attend for free, visit: https://barcampgr.org/register/
+
+New to BarCampGR or want more information? Read on!
+
+**What is BarCampGR?**
+
+Meet interesting people, talk about what you want to talk about, listen to what you find interesting! That's what we're about. From web programming to digital photography, computer vision to tabletop games, cosplay to turkey basting, we've had it all. We don't set the talks up ahead of time; you, the attendees, show up and give BarCampGR direction and content.
+
+**What's the format?**
+
+Talks run 25 minutes long, with five minutes in between. Sit in on a talk or hang around in the lounge and talk; it's all the same to us. If you give a talk, we don't care how—so long as you don't get us in trouble! Give a monologue, a Q&A or a round table; it's your topic, your presentation, your audience. If people want to hear about your topic, they'll be there.
+
+**Don't know what to talk about?**
+
+Certainly you have some relatively unique experiences! What do you do for a hobby? Is there something you managed to fix that you're proud of? It doesn't matter if the height of your accomplishment is changing your car's oil or if you've war-driven half of the Grand Rapids area; if people are interested, they will show up at your talk. If they aren’t interested, no big deal; they'll likely attend one of the other talks.
+
+**But I'm not an expert!**
+
+Sure you are! If you know the first thing about a subject, you know more than people who don't. Sure, people who know more than you might attend your presentation. Interact with them; you found a kindred spirit. Chances are, if you're both interested in the same subject, you'll look for each other in the lounge later to follow up!
+
+**How do I register a talk?**
+
+There's a blank schedule grid near the entrance with a list of rooms and times, and the grid starts off empty. Simply walk up to that board, find a spot, write in your topic and your name, and then show up in that room at that time to speak. It's that simple. Please be considerate when signing up for multiple talks at the start of the conference. If you see slots lingering open later on, feel free to fill them in then. This allows for more room for new talks and late adds, while also keeping you from accidentally scheduling an hour for a 25 minute talk!
+
+**I'm not sure I want to talk...**
+
+No problem. Come on in, take a look around and get a feel for things. It's a two-day event; come by on Friday, sit in on the presentations which interest you or hang around in the lounge and network with other people. Perhaps you'll be inspired to talk about something later or on Saturday. Or perhaps you'll be content to simply listen to the people around you; it's all good.
+
+If you'd like to be able to listen, but don't know if you'll have
+anything to say, you can still...
+
+**Help Out**
+
+On the days of the event itself, we typically need greeters, people to babysit the facility overnight (some folks stay overnight), people to respond to technical issues such as "why won't the projector work with my laptop" and "could someone turn down the lights so we could see the screen?"
+
+We also have a Slack organization again this year, slack.barcampgr.org. Use it to ask for certain subjects to be covered (#topic-requests). Use it to offer subjects that you can talk about. During the event, use it to have live discussions about things with people who aren't immediately present. After the event, use it to post supplemental materials and ask followup questions. We have a lot of other ways you can keep up to date on BarCampGR news and updates via the following social media outlets:
+
+* [Website](https://barcampgr.org)
+* [Twitter: @barcampgr](https://twitter.com/barcampgr)
+* [Slack](http://slack.barcampgr.org/)
+* Subreddit: /r/BarCampGR/
+* [Facebook](https://www.facebook.com/pages/BarCampGR/112347402141619)
+* [Google+](https://plus.google.com/b/116952079842867940611/)
+
+Also, if you'd like to help us organize BarCampGR, then sign up for the [BarCampGR Organizers' Email Group](http://lists.barcampgr.org/listinfo.cgi/organizers-barcampgr.org) and jump right into the conversation, or join the [Slack Team](http://slack.barcampgr.org/). 
+
+
+**CODE OF CONDUCT**
+
+* [You can read our code of conduct here](https://barcampgr.org/code-of-conduct/)
+
+
+**REGISTRATION**
+
+* https://barcampgr.org/register/
+
+**LOCATION**
+
+* DeVos Communications Center at Calvin College right here in GR.
+
+**SCHEDULE**
+
+Friday, August 25, 2017
+
+* 5:00-6:00 PM - Check-in and setup
+* 6:00-7:00 PM - Dinner
+* 7:00 PM - Kick things off with opening session
+* 7:30-9:30 PM - Sessions every 1/2 hour
+* 9:30 PM - After party
+
+Overnight
+
+* 10:00 PM-whenever the next morning - Camping, all-night hacking, etc.
+* There will be plenty of room to crash on Friday night, so bring a sleeping bag. Better yet, bring a tent for the geek base camp. You can also reserve clean, close accommodations at Calvin College’s Prince conference Center (http://www.calvin.edu/prince/accommodations/).
+
+Saturday, August 26, 2017
+
+* 9:00-10:00 AM - Continental Breakfast
+* 10:00 AM-12:00 PM - Sessions every 1/2 hour
+* 12:00-1:00 PM - Lunch
+* 1:00-2:00 PM - 5 minute Lightning Talks
+* 2:00-4:00 PM - Sessions every 1/2 hour
+* 4:00-4:30 PM - Closing session
+* 4:30-5:30 PM - Cleanup
+
+Note, despite the 'bar' in BarCampGR, the event doesn't take place in a bar, only the (optional) Friday after-party does.
+
+
+See you there!
+
+BarCampGR 2017 Organizers
