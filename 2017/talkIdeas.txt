@@ -2,4 +2,5 @@ Kotlin (for Android?)
 Why data sovereignty sucks
 Kubernetes
 Docker
+Prometheus (potential title: "Monitoring with metrics, why Nagios isn't enough")
 
