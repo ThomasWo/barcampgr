@@ -3,4 +3,6 @@ Why data sovereignty sucks
 Kubernetes
 Docker
 Prometheus (potential title: "Monitoring with metrics, why Nagios isn't enough")
+Tag-team: GCP vs AWS vs Azure (vs Heroku?)
+Custom interface on the Google Home
 
