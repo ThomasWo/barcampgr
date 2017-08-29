@@ -1,0 +1,31 @@
+Hello all,
+
+We would like to thank each and every one of you that were able to make it to BarCampGR this year, especially our speakers and volunteers!
+
+We would also like to thank our fantastic sponsors!  Without them, this just wouldn't be possible.
+http://barcampgr.org/about/sponsors/
+
+Gold Sponsors:
+* Calvin College - Computer Science Dept.
+ http://cs.calvin.edu/
+
+Silver Sponsors:
+* Atomic Object
+ https://atomicobject.com/
+* Blue Medora
+ http://www.bluemedora.com/
+
+Bronze Sponsors:
+* Excelon Development
+ http://xndev.com/
+* Software GR
+ http://softwaregr.org/
+
+Think something was good?  Bad?  Want something to change?  Want something new?  Please let us know in the Slack Feedback channel! https://barcampgr.slack.com/messages/feedback/
+
+If you would like to post your slides or find the slides from a talk you attended, head over to https://barcampgr.slack.com/messages/slides to post/find them.
+
+Additionally, if you would like to help us organize for next year, join us in the https://barcampgr.slack.com/messages/organizing channel to coordinate for coordinate for next year.
+
+See you next year!
+BarCampGR Organizing Committee
